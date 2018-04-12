@@ -3,8 +3,8 @@ package com.youngwa.sorting;
 import java.util.Arrays;
 
 /**
- * Created by youngwa on 2018年4月10日
- * 冒泡排序算法
+ * Created by youngwa on 2018??4??10??
+ * ?????????
  */
 public class BubbleSort {
 	public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class BubbleSort {
 				   numarr[i] = temp;
 				}
 			}
-			System.out.println("第"+(i+1)+"趟结果：  " + Arrays.toString(numarr));
+			System.out.println("??"+(i+1)+"??????  " + Arrays.toString(numarr));
 		}
 		System.out.println(Arrays.toString(numarr));
 	}
