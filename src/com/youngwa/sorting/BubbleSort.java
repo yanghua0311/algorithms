@@ -16,6 +16,7 @@ public class BubbleSort {
 				   int temp = numarr[j];
 				   numarr[j] = numarr[i];
 				   numarr[i] = temp;
+				   System.out.println("1111111111");
 				}
 			}
 			System.out.println("??"+(i+1)+"??????  " + Arrays.toString(numarr));
