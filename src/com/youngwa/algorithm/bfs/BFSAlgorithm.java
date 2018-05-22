@@ -1,4 +1,4 @@
-package com.youngwa.bfs.algorithm;
+package com.youngwa.algorithm.bfs;
 
 import java.util.ArrayList;
 import java.util.Arrays;

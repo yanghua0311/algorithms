@@ -1,4 +1,4 @@
-package com.youngwa.dijkstra.algorithm;
+package com.youngwa.algorithm.dijkstra;
 
 import java.util.ArrayList;
 import java.util.HashMap;
