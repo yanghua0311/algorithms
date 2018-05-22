@@ -1,4 +1,4 @@
-package com.youngwa.sorting;
+package com.youngwa.algorithm.sorting;
 
 import java.util.ArrayList;
 import java.util.Arrays;
